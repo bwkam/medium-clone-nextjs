@@ -23,7 +23,7 @@ export default function Home({posts}) {
             {" "}is a place to write, read, and connect
           </h1>
           <h2>
-            It's easy
+            It is easy
           </h2>
         </div>
 
